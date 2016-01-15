@@ -12,6 +12,10 @@ Grailbird.data.tweets_2013_08 =
       "id" : 373809370011693056,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BTAJpDlCcAAakcY.png",
       "sizes" : [ {
+        "h" : 553,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -27,10 +31,6 @@ Grailbird.data.tweets_2013_08 =
         "h" : 313,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 553,
-        "resize" : "fit",
-        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/MFbBRSgICA"
     } ],
@@ -742,7 +742,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jean-Baptiste Jung",
+      "name" : "CatsWhoCode",
       "screen_name" : "catswhocode",
       "indices" : [ 3, 15 ],
       "id_str" : "15985955",
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 366918007408164864,
     "created_at" : "2013-08-12 13:44:04 +0000",
     "user" : {
-      "name" : "Jean-Baptiste Jung",
+      "name" : "CatsWhoCode",
       "screen_name" : "catswhocode",
       "protected" : false,
       "id_str" : "15985955",
@@ -1257,14 +1257,6 @@ Grailbird.data.tweets_2013_08 =
       "id" : 363276153437421569,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQqdvKECAAEBIV2.png",
       "sizes" : [ {
-        "h" : 849,
-        "resize" : "fit",
-        "w" : 962
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 300,
         "resize" : "fit",
         "w" : 340
@@ -1272,6 +1264,14 @@ Grailbird.data.tweets_2013_08 =
         "h" : 529,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 849,
+        "resize" : "fit",
+        "w" : 962
       }, {
         "h" : 849,
         "resize" : "fit",
