@@ -1261,10 +1261,6 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 529,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -1276,6 +1272,10 @@ Grailbird.data.tweets_2013_08 =
         "h" : 849,
         "resize" : "fit",
         "w" : 962
+      }, {
+        "h" : 530,
+        "resize" : "fit",
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/J3ySFvRO4w"
     } ],

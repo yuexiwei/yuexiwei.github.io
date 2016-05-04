@@ -190,7 +190,7 @@ Grailbird.data.tweets_2015_07 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 466,
+        "h" : 467,
         "resize" : "fit",
         "w" : 600
       } ],
@@ -242,7 +242,7 @@ Grailbird.data.tweets_2015_07 =
           "resize" : "fit",
           "w" : 340
         }, {
-          "h" : 466,
+          "h" : 467,
           "resize" : "fit",
           "w" : 600
         } ],
@@ -2570,7 +2570,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "longdeqidao",
       "protected" : false,
       "id_str" : "610753032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671484348860796929\/aGuXRlSp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700181984358825984\/36t4n442_normal.jpg",
       "id" : 610753032,
       "verified" : false
     }
