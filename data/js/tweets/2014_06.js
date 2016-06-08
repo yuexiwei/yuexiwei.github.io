@@ -2520,7 +2520,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/chrome.google.com\/extensions\/detail\/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\"\u003EFaWave\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ursus Arctosia",
+      "name" : "Arctosia",
       "screen_name" : "Arctosia",
       "indices" : [ 3, 12 ],
       "id_str" : "15177840",
@@ -3603,7 +3603,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "conradhackett",
       "protected" : false,
       "id_str" : "71643224",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692717588913221633\/CKCOhX3T_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730865069823807488\/vFyyL3as_normal.jpg",
       "id" : 71643224,
       "verified" : false
     }

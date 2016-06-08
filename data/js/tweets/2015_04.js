@@ -3365,13 +3365,7 @@ Grailbird.data.tweets_2015_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/chrome.google.com\/extensions\/detail\/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\"\u003EFaWave\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gunjan Kumar",
-      "screen_name" : "Thislsamazing",
-      "indices" : [ 3, 17 ],
-      "id_str" : "2761142017",
-      "id" : 2761142017
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/ThislsAmazing\/status\/563696271320309760\/photo\/1",
       "indices" : [ 74, 96 ],
@@ -3454,7 +3448,7 @@ Grailbird.data.tweets_2015_04 =
     "created_at" : "2015-02-06 13:50:38 +0000",
     "user" : {
       "name" : "Lost In History",
-      "screen_name" : "SadHappyAmazing",
+      "screen_name" : "HistoryToLearn",
       "protected" : false,
       "id_str" : "149760844",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689056708941881345\/m9GrYte7_normal.jpg",

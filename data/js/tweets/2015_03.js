@@ -2,13 +2,7 @@ Grailbird.data.tweets_2015_03 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/chrome.google.com\/extensions\/detail\/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\"\u003EFaWave\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gunjan Kumar",
-      "screen_name" : "Thislsamazing",
-      "indices" : [ 3, 17 ],
-      "id_str" : "2761142017",
-      "id" : 2761142017
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/ThislsAmazing\/status\/581967082079711232\/photo\/1",
       "indices" : [ 76, 98 ],
@@ -91,7 +85,7 @@ Grailbird.data.tweets_2015_03 =
     "created_at" : "2015-03-28 23:52:19 +0000",
     "user" : {
       "name" : "Lost In History",
-      "screen_name" : "SadHappyAmazing",
+      "screen_name" : "HistoryToLearn",
       "protected" : false,
       "id_str" : "149760844",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689056708941881345\/m9GrYte7_normal.jpg",
@@ -3193,7 +3187,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "michaeleejiang",
       "protected" : false,
       "id_str" : "45523816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703043977012858880\/KYcnenXQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734419461944512516\/cHO2mXh1_normal.jpg",
       "id" : 45523816,
       "verified" : false
     }

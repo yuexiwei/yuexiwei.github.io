@@ -2117,6 +2117,33 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 29, 51 ],
+      "url" : "http:\/\/t.co\/8B4EzyvQjD",
+      "expanded_url" : "http:\/\/bit.ly\/1vIHLAZ",
+      "display_url" : "bit.ly\/1vIHLAZ"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "523404071949307904",
+  "text" : "Just liked a photo:  by aiww http:\/\/t.co\/8B4EzyvQjD",
+  "id" : 523404071949307904,
+  "created_at" : "2014-10-18 09:23:49 +0000",
+  "user" : {
+    "name" : "Gavin",
+    "screen_name" : "yuexiwei",
+    "protected" : false,
+    "id_str" : "145259329",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000331464753\/33d07dd23f541a45edb9aab27c4471dd_normal.jpeg",
+    "id" : 145259329,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "nabeela",
       "screen_name" : "naz",
@@ -2137,33 +2164,6 @@ Grailbird.data.tweets_2014_10 =
   "id_str" : "523404070292582400",
   "text" : "Just liked a photo: Fantastic pop art by @naz.grfx (Shared by @sambaileyartwork by artfido http:\/\/t.co\/FvrIUKZ2HI",
   "id" : 523404070292582400,
-  "created_at" : "2014-10-18 09:23:49 +0000",
-  "user" : {
-    "name" : "Gavin",
-    "screen_name" : "yuexiwei",
-    "protected" : false,
-    "id_str" : "145259329",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000331464753\/33d07dd23f541a45edb9aab27c4471dd_normal.jpeg",
-    "id" : 145259329,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 29, 51 ],
-      "url" : "http:\/\/t.co\/8B4EzyvQjD",
-      "expanded_url" : "http:\/\/bit.ly\/1vIHLAZ",
-      "display_url" : "bit.ly\/1vIHLAZ"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "523404071949307904",
-  "text" : "Just liked a photo:  by aiww http:\/\/t.co\/8B4EzyvQjD",
-  "id" : 523404071949307904,
   "created_at" : "2014-10-18 09:23:49 +0000",
   "user" : {
     "name" : "Gavin",
@@ -2658,7 +2658,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/chrome.google.com\/extensions\/detail\/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\"\u003EFaWave\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ursus Arctosia",
+      "name" : "Arctosia",
       "screen_name" : "Arctosia",
       "indices" : [ 3, 12 ],
       "id_str" : "15177840",
@@ -2695,7 +2695,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 523010354541256704,
     "created_at" : "2014-10-17 07:19:20 +0000",
     "user" : {
-      "name" : "Ursus Arctosia",
+      "name" : "Arctosia",
       "screen_name" : "Arctosia",
       "protected" : false,
       "id_str" : "15177840",
@@ -3890,7 +3890,7 @@ Grailbird.data.tweets_2014_10 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Foursquare",
-      "screen_name" : "foursquare",
+      "screen_name" : "Foursquare",
       "indices" : [ 27, 38 ],
       "id_str" : "14120151",
       "id" : 14120151
@@ -5283,7 +5283,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "headius",
       "protected" : false,
       "id_str" : "9989362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719848876207812609\/2SoG8frt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736361495756480513\/U0H_Wfk4_normal.jpg",
       "id" : 9989362,
       "verified" : false
     }

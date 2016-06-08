@@ -3274,7 +3274,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "7 A M A D",
+      "name" : "H A M A D",
       "screen_name" : "Hamad_s_m",
       "indices" : [ 65, 75 ],
       "id_str" : "706719271",
@@ -3319,7 +3319,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6709\u4E8B\u70E7\u7EB8",
+      "name" : "\u9B4F\u5F3A",
       "screen_name" : "Watchmen725",
       "indices" : [ 3, 15 ],
       "id_str" : "98314207",

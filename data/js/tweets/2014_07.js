@@ -4605,7 +4605,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "nic_chen",
       "protected" : false,
       "id_str" : "173663051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/673709198383845378\/NajQFRwB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/740061235371085824\/_trV-46H_normal.jpg",
       "id" : 173663051,
       "verified" : false
     }

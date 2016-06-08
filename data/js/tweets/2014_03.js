@@ -2084,7 +2084,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/chrome.google.com\/extensions\/detail\/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\"\u003EFaWave\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Nien-Yi Ho",
+      "name" : "Alex Ho",
       "screen_name" : "NienYiHo",
       "indices" : [ 3, 12 ],
       "id_str" : "43335965",
@@ -6065,7 +6065,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Microsoft Security",
+      "name" : "Microsoft Secure",
       "screen_name" : "msftsecurity",
       "indices" : [ 1, 14 ],
       "id_str" : "208214219",

@@ -2168,14 +2168,129 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "537684550",
       "id" : 537684550
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
       "indices" : [ 39, 61 ],
       "url" : "http:\/\/t.co\/bWi5q8aZNz",
-      "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMvWBWMAA5peT.jpg",
+      "id_str" : "585974540272021504",
+      "id" : 585974540272021504,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMvWBWMAA5peT.jpg",
+      "sizes" : [ {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 500
+      } ],
       "display_url" : "pic.twitter.com\/bWi5q8aZNz"
-    } ]
+    }, {
+      "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+      "indices" : [ 39, 61 ],
+      "url" : "http:\/\/t.co\/bWi5q8aZNz",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMv1pWIAMp3cv.jpg",
+      "id_str" : "585974548761288707",
+      "id" : 585974548761288707,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMv1pWIAMp3cv.jpg",
+      "sizes" : [ {
+        "h" : 227,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 334,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 334,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 334,
+        "resize" : "fit",
+        "w" : 500
+      } ],
+      "display_url" : "pic.twitter.com\/bWi5q8aZNz"
+    }, {
+      "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+      "indices" : [ 39, 61 ],
+      "url" : "http:\/\/t.co\/bWi5q8aZNz",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMvWSW8AEFZqK.jpg",
+      "id_str" : "585974540343373825",
+      "id" : 585974540343373825,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMvWSW8AEFZqK.jpg",
+      "sizes" : [ {
+        "h" : 353,
+        "resize" : "fit",
+        "w" : 359
+      }, {
+        "h" : 353,
+        "resize" : "fit",
+        "w" : 359
+      }, {
+        "h" : 353,
+        "resize" : "fit",
+        "w" : 359
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 334,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/bWi5q8aZNz"
+    }, {
+      "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+      "indices" : [ 39, 61 ],
+      "url" : "http:\/\/t.co\/bWi5q8aZNz",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMvmdWMAAxHsy.jpg",
+      "id_str" : "585974544684429312",
+      "id" : 585974544684429312,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMvmdWMAAxHsy.jpg",
+      "sizes" : [ {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 500
+      } ],
+      "display_url" : "pic.twitter.com\/bWi5q8aZNz"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "610982799663697921",
@@ -2184,14 +2299,129 @@ Grailbird.data.tweets_2015_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
         "indices" : [ 21, 43 ],
         "url" : "http:\/\/t.co\/bWi5q8aZNz",
-        "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMvWBWMAA5peT.jpg",
+        "id_str" : "585974540272021504",
+        "id" : 585974540272021504,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMvWBWMAA5peT.jpg",
+        "sizes" : [ {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 500
+        } ],
         "display_url" : "pic.twitter.com\/bWi5q8aZNz"
-      } ]
+      }, {
+        "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+        "indices" : [ 21, 43 ],
+        "url" : "http:\/\/t.co\/bWi5q8aZNz",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMv1pWIAMp3cv.jpg",
+        "id_str" : "585974548761288707",
+        "id" : 585974548761288707,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMv1pWIAMp3cv.jpg",
+        "sizes" : [ {
+          "h" : 227,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 334,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 334,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 334,
+          "resize" : "fit",
+          "w" : 500
+        } ],
+        "display_url" : "pic.twitter.com\/bWi5q8aZNz"
+      }, {
+        "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+        "indices" : [ 21, 43 ],
+        "url" : "http:\/\/t.co\/bWi5q8aZNz",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMvWSW8AEFZqK.jpg",
+        "id_str" : "585974540343373825",
+        "id" : 585974540343373825,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMvWSW8AEFZqK.jpg",
+        "sizes" : [ {
+          "h" : 353,
+          "resize" : "fit",
+          "w" : 359
+        }, {
+          "h" : 353,
+          "resize" : "fit",
+          "w" : 359
+        }, {
+          "h" : 353,
+          "resize" : "fit",
+          "w" : 359
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 334,
+          "resize" : "fit",
+          "w" : 340
+        } ],
+        "display_url" : "pic.twitter.com\/bWi5q8aZNz"
+      }, {
+        "expanded_url" : "http:\/\/twitter.com\/FIirtationship\/status\/585974550275428352\/photo\/1",
+        "indices" : [ 21, 43 ],
+        "url" : "http:\/\/t.co\/bWi5q8aZNz",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CCHMvmdWMAAxHsy.jpg",
+        "id_str" : "585974544684429312",
+        "id" : 585974544684429312,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CCHMvmdWMAAxHsy.jpg",
+        "sizes" : [ {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 500
+        } ],
+        "display_url" : "pic.twitter.com\/bWi5q8aZNz"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
     },
     "geo" : { },
     "id_str" : "610631842685952000",

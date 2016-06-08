@@ -783,7 +783,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "catswhocode",
       "protected" : false,
       "id_str" : "15985955",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089000759\/twitux_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729381071679311872\/UgQwDh26_normal.jpg",
       "id" : 15985955,
       "verified" : false
     }

@@ -1506,7 +1506,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "TheWeirdWorld",
       "protected" : false,
       "id_str" : "487736815",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/721775536100347904\/w2v_KDHb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731191495500410884\/7ENR4sp2_normal.jpg",
       "id" : 487736815,
       "verified" : false
     }

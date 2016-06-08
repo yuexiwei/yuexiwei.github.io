@@ -2395,7 +2395,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/chrome.google.com\/extensions\/detail\/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\"\u003EFaWave\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Isaac Mao",
+      "name" : "Isaac",
       "screen_name" : "isaac",
       "indices" : [ 3, 9 ],
       "id_str" : "56833",
@@ -2980,7 +2980,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "sun_koubun",
       "protected" : false,
       "id_str" : "1200079526",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727534272882466821\/XO2IRWwR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734408518300667904\/a5oKFT0m_normal.jpg",
       "id" : 1200079526,
       "verified" : false
     }

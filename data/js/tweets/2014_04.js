@@ -2400,7 +2400,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HuffPostArts&Culture",
+      "name" : "HuffPostCulture",
       "screen_name" : "HuffPostArts",
       "indices" : [ 127, 140 ],
       "id_str" : "129051309",

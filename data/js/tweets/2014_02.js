@@ -1127,7 +1127,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/chrome.google.com\/extensions\/detail\/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\"\u003EFaWave\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uB9BC\uB518\uB2C8",
+      "name" : "dinnie",
       "screen_name" : "dinnie",
       "indices" : [ 3, 10 ],
       "id_str" : "9845932",

@@ -2524,7 +2524,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "UNILAD",
       "protected" : false,
       "id_str" : "149679293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/670004509289160705\/wxa4ET3s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737701564719058944\/bhE93ujm_normal.jpg",
       "id" : 149679293,
       "verified" : true
     }

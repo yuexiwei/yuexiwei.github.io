@@ -2573,7 +2573,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 719450708550889472,
     "created_at" : "2016-04-11 09:03:10 +0000",
     "user" : {
-      "name" : "\u90AA\u6076\u7684\u5C0F\u661F\u661F",
+      "name" : "\u90AA\u6076\u7684\u5C0F\u7329\u7329",
       "screen_name" : "xmxsuperstar",
       "protected" : false,
       "id_str" : "25635481",

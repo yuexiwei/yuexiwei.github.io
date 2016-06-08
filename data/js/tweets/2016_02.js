@@ -1392,7 +1392,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 701540063600111617,
     "created_at" : "2016-02-21 22:52:39 +0000",
     "user" : {
-      "name" : "ParisR\u00E9siste !",
+      "name" : "ParisR\u00E9siste",
       "screen_name" : "ParisResiste",
       "protected" : false,
       "id_str" : "4208840913",

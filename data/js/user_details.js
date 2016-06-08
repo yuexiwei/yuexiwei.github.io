@@ -1,8 +1,8 @@
 var user_details =  {
   "expanded_url" : "http:\/\/yxw.im\/",
   "screen_name" : "yuexiwei",
-  "location" : " 30.276328, 120.124868",
-  "url" : "https:\/\/t.co\/jpwH7nom0M",
+  "location" : "Hangzhou, Zhejiang, China",
+  "url" : "https:\/\/t.co\/jpwH7n6KCc",
   "full_name" : "Gavin",
   "bio" : "There's more than one way to do it.",
   "id" : "145259329",
