@@ -8,17 +8,6 @@
 <meta name='color:Link' content='#6699cc' />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <style type='text/css'>
-    ::selection{
-        background:#FFFFC0;
-        color:#424242;
-    }
-    ::-moz-selection{
-        background:#FFFFC0;
-        color:#424242;
-    }
-    * {
-        outline:none;
-    }
     body {
         background-color:#fff;
         font:0.8em Georgia;
@@ -75,19 +64,22 @@
     #headerContent p {
         padding-top:10px;
     }
+    .post {
+        padding:10px 10px 0 10px;
+    }
+    .postNote {
+        padding:10px;
+    }
     .footer {
         color:#cecece;
-        padding:0 0 0 100px;
         font-size:0.8em;
         font-weight:bold;
         width:632px;
         margin:0 auto;
     }
-    
     .credits {
-        float:right;
-        text-align:right;
-        padding:0 16px 0 0;
+        float:center;
+        text-align:center;
         font-weight:normal;
     }
 </style>
@@ -111,16 +103,20 @@
 <div id='header'>
     <div id='headerContent'>
         <h1><a href='/'>@yuexiwei</a></h1>
-        
             <p>「不聞不若聞之，聞之不若見之，見之不若知之，知之不若行之，學至於行而止矣。」</p>
-        
     </div>
 </div>
+<div id='wrapper'>
+    <div id='posts'>
+	<p>豆瓣想读：</p>
+	<script type="text/javascript" src="http://www.douban.com/service/badge/yuexiwei/?selection=latest&amp;picsize=medium&amp;hideself=on&amp;show=wishlist&amp;n=20&amp;hidelogo=on&amp;cat=book&amp;columns=4"></script>
+	<br>
         <div class='footer'>
             <div class='credits'>
             mailto: im[at]yxw.im | <a href='http://blog.yxw.im/' target="_blank">Blog</a> | <a href='http://tw.yxw.im/' target="_blank">Tweets</a> | <a href='https://telegram.me/yuexiwei' target="_blank">Telegram</a> | <a href="http://db.yxw.im/" target="_blank">Douban</a> | <a href="http://wb.yxw.im/" target="_blank">Weibo</a> | <a href='http://tb.yxw.im/' target="_blank">Taobao</a> | <a href='http://tb2.yxw.im/' target="_blank">2.Taobao</a> | <a href='http://about.me/yuexiwei' target="_blank">About</a>
             </div>
         </div>
-<br class='clear' />
+    </div>
+</div>
 </body>
 </html>
